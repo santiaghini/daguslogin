@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">App Pro</string>
+    <string name="escribenombre">Escribe aquí tu nombre</string>
+    <string name="descripimageiphone">Imagen de un iPhone</string>
+    <string name="descripgalan">imagen de un galán</string>
+    <string name="descripgalan2">imagen de un galán 2</string>
+    <string name="email">E-mail</string>
+    <string name="irARegistro">Ir al Registro</string>
+    <string name="fechanaci">Fecha de nacimiento</string>
+    <string name="registro">Registro</string>
+    <string name="name">Nombre</string>
+    <string name="galan1">Galán 1</string>
+    <string name="galan2">Galán 2</string>
+    <string name="iniciaSesion">Inicia sesión</string>
+    <string name="email2">E-mail</string>
+    <string name="contrasena">Contraseña</string>
+    <string name="noCuenta">¿Aún no tienes cuenta?</string>
+    <string name="yaCuenta">¿Ya tienes cuenta?</string>
+    <string name="registrarse">Registrarse</string>
+    <string name="daguslogo">Dagus Logo</string>
+    <string name="bienvenido">Bienvenido a App Pro</string>
+    <string name="regresar">Regresar</string>
+</resources>
